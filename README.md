@@ -1,5 +1,5 @@
 # campus-event-registration
-A student registration system for UiTM campus 
+A student event registration system for UiTM campus 
 # Campus Event Registration System
 
 A web-based system that simplifies campus event discovery and registration for students while helping event organizers manage participants efficiently.
